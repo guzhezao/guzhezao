@@ -1,64 +1,41 @@
-<div align="center">
+### Hi, I'm COOL 👋
 
-### Hey, I'm COOL 👋
+AI 内容自动化 · 多 Agent 系统 · 开源 Skill
 
-**AI 内容运营 / 多 Agent 自动化管线 / 让 AI 真正能产出能用的内容**
-
-[![GitHub followers](https://img.shields.io/github/followers/cool111111?label=Follow&style=social)](https://github.com/cool111111)
-[![Profile Views](https://komarev.com/ghpvc/?username=cool111111&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/cool111111)
-
-</div>
+用 AI Agent 把内容生产流程自动化，把可复用的方法沉淀成开源 Skill。
+偏工程，也懂内容——在这两件事的交叉点上做点实用的东西。
 
 ---
 
-我做的事，简单来说：**把 AI 工程能力 × 内容运营经验 拼成一条能打的自动化管线。**
+#### 🧰 技术栈
 
-懂技术够用来搭多 Agent 系统，懂内容够用来判断"什么是真能爆的稿子" — 这个交叉点上的人不多。
-
----
-
-#### 🚀 在搞的事
-
-**🤖 AI Content Pipeline** — 一条 9 个 Agent 并行的自动化管线
-- 抓 KOL 推文 → 聚合 AI 新闻 → 生成日报 → 产出小红书短图文 → 推飞书审稿
-- 全流程 30 分钟跑完，**每天稳定产出 3-5 条候选稿件**
-
-**📚 开源 Skill 矩阵** — 把内容方法论封装成 AI Agent 能直接用的 Skill：
-
-| Skill | 用途 | 链接 |
-|-------|------|------|
-| ✍️ Writer | 公众号长文 — HKR 选题 + 反 AI 味 + 三级质检 | [writer-skill](https://github.com/cool111111/writer-skill) |
-| 📕 XHS Content | 小红书短图文 — 钩子库 + 四维评分 + 反馈迭代 | [xhs-content-skill](https://github.com/cool111111/xhs-content-skill) |
-| 🔍 find-influencer | 跨平台达人发现 + 深度评估 | [find-influencer-skill](https://github.com/cool111111/find-influencer-skill) |
-
-**👥 5000+ 达人运营实战** — 跨平台达人筛选 / 对接 / 脚本辅写 / 数据复盘
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6E56CF?style=flat&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-EC4899?style=flat)
+![Mavis](https://img.shields.io/badge/Mavis-0EA5E9?style=flat)
 
 ---
 
-#### 🛠 我的工具栈
+#### 📦 开源 Skill
 
-`AI Agents` `Multi-Agent Orchestration` `Prompt Engineering` `Content Automation`
-`Python` `TypeScript` `Playwright` `Claude Code` `Mavis`
-
----
-
-#### 📊 GitHub 数据
-
-<div align="center">
-
-![Cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=cool111111&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cool111111&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+| Skill | 用途 |
+|---|---|
+| ✍️ [writer-skill](https://github.com/cool111111/writer-skill) | 公众号长文：选题 + 反 AI 味 + 分级质检 |
+| 📕 [xhs-content-skill](https://github.com/cool111111/xhs-content-skill) | 小红书短图文：钩子库 + 多维评分 + 迭代 |
+| 🔍 [find-influencer-skill](https://github.com/cool111111/find-influencer-skill) | 跨平台达人发现与评估 |
+| 🧩 [ai-content-skills](https://github.com/cool111111/ai-content-skills) | AI 内容相关 Skill 合集 |
 
 ---
 
-#### 💬 聊聊
+#### 📊 GitHub
 
-如果你也在做 AI × 内容这条路，或者想用 AI Agent 做内容自动化 — 欢迎 issue / discussion 找我。
+![Stats](https://github-readme-stats.vercel.app/api?username=cool111111&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cool111111&layout=compact&theme=default&hide_border=true)
 
-<!-- TODO 想加联系方式（小红书 / 微信 / 邮箱 / X）就在这里加，比如：
-- 📧 Email: your@email.com
-- 📕 小红书: @你的ID
-- 🐦 X: @你的handle
--->
+---
+
+#### 💬 联系
+
+做 AI × 内容自动化，或想聊聊 AI Agent 的，欢迎开 issue / discussion 找我。
