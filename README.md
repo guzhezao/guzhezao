@@ -59,6 +59,7 @@ AI Agent · 开源 Skill · 内容自动化
 | Project | 用途 |
 |---|---|
 | [qiuzhao](https://github.com/cool111111/qiuzhao) | 国内校招岗位筛选与投递工作流 |
+| [xhs-trend-radar](https://github.com/cool111111/xhs-trend-radar) | 小红书热点笔记验证与离线趋势报告 |
 | [writer-skill](https://github.com/cool111111/writer-skill) | 长文写作、反 AI 味与分级质检 |
 | [xhs-content-skill](https://github.com/cool111111/xhs-content-skill) | 小红书内容策划、评分与迭代 |
 | [find-influencer-skill](https://github.com/cool111111/find-influencer-skill) | 跨平台达人发现与评估 |
