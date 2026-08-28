@@ -9,11 +9,11 @@
 
 岗位筛选 · JD 评分 · 简历定制 · 本地投递与面试日程
 
+**[查看项目 →](https://github.com/cool111111/qiuzhao)** · [试跑看板](https://github.com/cool111111/qiuzhao#不用交简历先试一次) · [反馈问题](https://github.com/cool111111/qiuzhao/issues)
+
 [![qiuzhao 本地看板，使用虚构演示数据](https://raw.githubusercontent.com/cool111111/qiuzhao/main/docs/images/dashboard-demo.png)](https://github.com/cool111111/qiuzhao#先看效果)
 
 <sub>实际界面截图，数据为虚构示例。演示不需要简历、账号或招聘网站登录。</sub>
-
-**[查看项目 →](https://github.com/cool111111/qiuzhao)** · [试跑看板](https://github.com/cool111111/qiuzhao#不用交简历先试一次) · [反馈问题](https://github.com/cool111111/qiuzhao/issues)
 
 ## 另外两个工具
 
