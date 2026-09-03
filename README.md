@@ -7,10 +7,10 @@
 
 | 工具 | 用来做什么 | 使用前知道这些 |
 |---|---|---|
-| [XHS Trend Radar](https://github.com/cool111111/xhs-trend-radar) | 验证小红书笔记，生成带图表与来源链接的选题报告 | 采集依赖 MiniMax Code 已登录浏览器；报告可离线查看 |
-| [Writer Skill](https://github.com/cool111111/writer-skill) | 长文选题、事实核查与风格检查 | 基于已有写作方法论的适配；成稿仍需人工审阅 |
+| [XHS Trend Radar](https://github.com/guzhezao/xhs-trend-radar) | 验证小红书笔记，生成带图表与来源链接的选题报告 | 采集依赖 MiniMax Code 已登录浏览器；报告可离线查看 |
+| [Writer Skill](https://github.com/guzhezao/writer-skill) | 长文选题、事实核查与风格检查 | 基于已有写作方法论的适配；成稿仍需人工审阅 |
 
-[其他内容工具](https://github.com/cool111111/ai-content-skills) · [全部仓库](https://github.com/cool111111?tab=repositories)
+[其他内容工具](https://github.com/guzhezao/ai-content-skills) · [全部仓库](https://github.com/guzhezao?tab=repositories)
 
 ---
 
