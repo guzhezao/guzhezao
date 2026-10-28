@@ -6,7 +6,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<p align="center"><a href="https://github.com/guzhezao/scroll-web-skills"><img src="assets/cards/scroll-web.svg" alt="Scroll Web Skills：流程示意" height="160"></a></p>
+<p align="center"><a href="https://github.com/guzhezao/scroll-web-skills"><img src="assets/cards/scroll-web-video.jpg" alt="Scroll Web Skills：跑鞋滚动网页实录，分层拆解画面" height="160"></a></p>
 <p><strong><a href="https://github.com/guzhezao/scroll-web-skills">Scroll Web Skills</a></strong></p>
 <p>先生成产品动画，再做成随滚动展开的网页。</p>
 <p><a href="https://github.com/guzhezao/scroll-web-skills">查看 Skill →</a></p>
