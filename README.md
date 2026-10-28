@@ -12,7 +12,7 @@
 <p><a href="https://github.com/guzhezao/scroll-web-skills">查看 Skill →</a></p>
 </td>
 <td width="50%" valign="top">
-<p align="center"><a href="https://github.com/guzhezao/sandcove"><img src="https://github.com/guzhezao/sandcove/raw/main/docs/images/sandcove-v19.1.jpg" alt="沙滩小筑 · SANDCOVE：实际作品画面" height="160"></a></p>
+<p align="center"><a href="https://github.com/guzhezao/sandcove"><img src="assets/cards/sandcove-closeup.jpg" alt="沙滩小筑 · SANDCOVE：沙堡、小屋、人物与海岸近景实拍" height="160"></a></p>
 <p><strong><a href="https://github.com/guzhezao/sandcove">沙滩小筑 · SANDCOVE</a></strong></p>
 <p>挖沙、筑城、引水的 WebGPU 海滩沙盒。</p>
 <p><a href="https://mqr0sn1ljjxnu.space.mcode.cn/">在线试玩 →</a> · <a href="https://github.com/guzhezao/sandcove">查看项目 →</a></p>
