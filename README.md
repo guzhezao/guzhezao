@@ -1,27 +1,53 @@
-# 把想法，做成能玩的作品、能用的工具。
+# 顾着造 · COOL Builds
 
-我是 **顾着造 · COOL Builds**，关注 AI Agent、互动作品与内容自动化。
-这里放持续打磨的小游戏、实用工具和创作实验。
+把想法，做成能玩的作品、能用的工具。  
+关注 AI Agent、互动网页与内容创作。
 
-## 精选作品 · 沙滩小筑 SANDCOVE
+<table>
+<tr>
+<td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/scroll-web-skills"><img src="assets/cards/scroll-web.svg" alt="Scroll Web Skills：流程示意" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/scroll-web-skills">Scroll Web Skills</a></strong></p>
+<p>先生成产品动画，再做成随滚动展开的网页。</p>
+<p><a href="https://github.com/guzhezao/scroll-web-skills">查看 Skill →</a></p>
+</td>
+<td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/sandcove"><img src="https://github.com/guzhezao/sandcove/raw/main/docs/images/sandcove-v19.1.jpg" alt="沙滩小筑 · SANDCOVE：实际作品画面" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/sandcove">沙滩小筑 · SANDCOVE</a></strong></p>
+<p>挖沙、筑城、引水的 WebGPU 海滩沙盒。</p>
+<p><a href="https://mqr0sn1ljjxnu.space.mcode.cn/">在线试玩 →</a> · <a href="https://github.com/guzhezao/sandcove">查看项目 →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/qiuzhao"><img src="https://github.com/guzhezao/qiuzhao/raw/main/docs/images/dashboard-demo.png" alt="秋招助手 · qiuzhao：使用虚构数据的看板演示" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/qiuzhao">秋招助手 · qiuzhao</a></strong></p>
+<p>岗位筛选、简历定制与投递看板。</p>
+<p><a href="https://github.com/guzhezao/qiuzhao">查看项目 →</a></p>
+</td>
+<td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/xhs-trend-radar"><img src="assets/cards/trend-radar.svg" alt="小红书选题雷达：流程示意" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/xhs-trend-radar">小红书选题雷达</a></strong></p>
+<p>核验热点笔记，生成可视化选题报告。</p>
+<p><a href="https://github.com/guzhezao/xhs-trend-radar">查看 Skill →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/writer-skill"><img src="assets/cards/writer.svg" alt="Writer Skill：流程示意" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/writer-skill">Writer Skill</a></strong></p>
+<p>从选题、素材核查到长文改稿。</p>
+<p><a href="https://github.com/guzhezao/writer-skill">查看 Skill →</a></p>
+</td>
+<td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/xhs-content-skill"><img src="assets/cards/xhs-content.svg" alt="小红书短图文 Skill：流程示意" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/xhs-content-skill">小红书短图文 Skill</a></strong></p>
+<p>把一个选题写成有节奏的短图文。</p>
+<p><a href="https://github.com/guzhezao/xhs-content-skill">查看 Skill →</a></p>
+</td>
+</tr>
+</table>
 
-挖沟、筑沙堡、引水，再让海啸检验自己的防线。一个可以直接在浏览器里玩的 WebGPU 海滩沙盒。
-
-[![沙滩小筑：可挖沙、筑城、引水的海滩沙盒](https://github.com/guzhezao/sandcove/raw/main/docs/images/sandcove-v19.1.jpg)](https://github.com/guzhezao/sandcove)
-
-**[在线试玩 ↗](https://mqr0sn1ljjxnu.space.mcode.cn/) · [查看源码与运行说明 ↗](https://github.com/guzhezao/sandcove)**
-
-需要支持 WebGPU 的浏览器。基于开源 Sandboard 持续改进，采用 GPL-3.0-only 许可。
-
-## 开源工具
-
-| 工具 | 用来做什么 | 使用前知道这些 |
-|---|---|---|
-| [XHS Trend Radar](https://github.com/guzhezao/xhs-trend-radar) | 验证小红书笔记，生成带图表与来源链接的选题报告 | 采集需要项目支持的浏览器登录环境；报告可离线查看 |
-| [Writer Skill](https://github.com/guzhezao/writer-skill) | 长文选题、事实核查与风格检查 | 基于已有写作方法论的适配；成稿仍需人工审阅 |
-
-[其他内容工具](https://github.com/guzhezao/ai-content-skills) · [全部仓库](https://github.com/guzhezao?tab=repositories)
-
----
+[达人筛选 Skill](https://github.com/guzhezao/find-influencer-skill) · [内容工具合集](https://github.com/guzhezao/ai-content-skills) · [全部项目 →](https://github.com/guzhezao?tab=repositories)
 
 **不只想，顾着造。**
