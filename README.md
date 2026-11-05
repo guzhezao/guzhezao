@@ -67,10 +67,24 @@
 <p>把一个选题写成有节奏的短图文。</p>
 <p><a href="https://github.com/guzhezao/xhs-content-skill">查看 Skill →</a></p>
 </td>
+<td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/find-influencer-skill"><img src="assets/cards/find-influencer.svg" alt="达人筛选 Skill：搜索、筛选与评估流程示意" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/find-influencer-skill">达人筛选 Skill</a></strong></p>
+<p>跨平台发现达人，筛选数据并整理评估报告。</p>
+<p><a href="https://github.com/guzhezao/find-influencer-skill">查看 Skill →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/ai-content-skills"><img src="assets/cards/content-skills.svg" alt="内容工具合集：长文、短图文与独立达人发现入口示意" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/ai-content-skills">内容工具合集</a></strong></p>
+<p>长文写作与短图文工具合集，附达人发现入口。</p>
+<p><a href="https://github.com/guzhezao/ai-content-skills">查看合集 →</a></p>
+</td>
 <td width="50%" valign="top"></td>
 </tr>
 </table>
 
-[达人筛选 Skill](https://github.com/guzhezao/find-influencer-skill) · [内容工具合集](https://github.com/guzhezao/ai-content-skills) · [全部项目 →](https://github.com/guzhezao?tab=repositories)
+[全部项目 →](https://github.com/guzhezao?tab=repositories)
 
 **不只想，顾着造。**
