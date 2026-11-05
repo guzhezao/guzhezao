@@ -20,31 +20,54 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/off-angle"><img src="assets/cards/off-angle.jpg" alt="OFF/ANGLE：空间旋转中的网页立体结构" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/off-angle">OFF/ANGLE</a></strong></p>
+<p>旋转同一组立体表面，拼出五个网页视角。</p>
+<p><a href="https://c1ayf7prewlra.space.mcode.cn/">在线体验 →</a> · <a href="https://github.com/guzhezao/off-angle">查看项目 →</a></p>
+</td>
+<td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/needle"><img src="assets/cards/needle.jpg" alt="NEEDLE：黑胶唱机首页实拍" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/needle">NEEDLE · Vinyl Studio</a></strong></p>
+<p>换盘、拖动与拆解，探索四章黑胶唱机。</p>
+<p><a href="https://czkk5almnqxpr.space.mcode.cn/">在线体验 →</a> · <a href="https://github.com/guzhezao/needle">查看项目 →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p align="center"><a href="https://github.com/guzhezao/parcel-shift"><img src="assets/cards/parcel-shift.jpg" alt="街角速递：街区、车辆与配送界面实拍" height="160"></a></p>
+<p><strong><a href="https://github.com/guzhezao/parcel-shift">街角速递 · PARCEL SHIFT</a></strong></p>
+<p>开车送货、无人机上楼，完成一班六票。</p>
+<p><a href="https://dkeh2sapuis1g.space.mcode.cn/">在线试玩 →</a> · <a href="https://github.com/guzhezao/parcel-shift">查看项目 →</a></p>
+</td>
+<td width="50%" valign="top">
 <p align="center"><a href="https://github.com/guzhezao/qiuzhao"><img src="https://github.com/guzhezao/qiuzhao/raw/main/docs/images/dashboard-demo.png" alt="秋招助手 · qiuzhao：使用虚构数据的看板演示" height="160"></a></p>
 <p><strong><a href="https://github.com/guzhezao/qiuzhao">秋招助手 · qiuzhao</a></strong></p>
 <p>岗位筛选、简历定制与投递看板。</p>
 <p><a href="https://github.com/guzhezao/qiuzhao">查看项目 →</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/guzhezao/xhs-trend-radar"><img src="assets/cards/trend-radar.svg" alt="小红书选题雷达：流程示意" height="160"></a></p>
 <p><strong><a href="https://github.com/guzhezao/xhs-trend-radar">小红书选题雷达</a></strong></p>
 <p>核验热点笔记，生成可视化选题报告。</p>
 <p><a href="https://github.com/guzhezao/xhs-trend-radar">查看 Skill →</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/guzhezao/writer-skill"><img src="assets/cards/writer.svg" alt="Writer Skill：流程示意" height="160"></a></p>
 <p><strong><a href="https://github.com/guzhezao/writer-skill">Writer Skill</a></strong></p>
 <p>从选题、素材核查到长文改稿。</p>
 <p><a href="https://github.com/guzhezao/writer-skill">查看 Skill →</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p align="center"><a href="https://github.com/guzhezao/xhs-content-skill"><img src="assets/cards/xhs-content.svg" alt="小红书短图文 Skill：流程示意" height="160"></a></p>
 <p><strong><a href="https://github.com/guzhezao/xhs-content-skill">小红书短图文 Skill</a></strong></p>
 <p>把一个选题写成有节奏的短图文。</p>
 <p><a href="https://github.com/guzhezao/xhs-content-skill">查看 Skill →</a></p>
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
