@@ -5,7 +5,7 @@
 
 [![GitHub Total Stars](https://img.shields.io/github/stars/guzhezao?affiliations=OWNER&style=flat-square&label=Total%20Stars&color=56705a)](https://github.com/guzhezao?tab=repositories)
 
-公开仓库累计 **1,400+ Stars**，其中 **5 个项目超过 100 Stars**。  
+公开仓库累计 **1,500+ Stars**，其中 **5 个项目超过 100 Stars**。  
 <sub>统计截至 2026-11-12；最新数量见各项目徽章。</sub>
 
 ## 作品与开源工具
